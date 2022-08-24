@@ -1,6 +1,6 @@
 # CVSS 3.1 Calculator
 
-It is a free **Common Vulnerability Scoring System (CVSS) Version 3.1 Calculator** designed using [Bootstrap v5.2](https://getbootstrap.com/docs/5.2/getting-started/introduction/), it's UI is simple and easy to use. You can also integrate it into your website or application. You just need to select certain metric values, based on the metric values you entered, the CVSS calculator applies the formula specified in the [CVSS version 3.1 standard](https://www.first.org/cvss/v3-1/cvss-v31-specification_r1.pdf) to generate the score.
+It is a free **Common Vulnerability Scoring System (CVSS) Version 3.1 Calculator** designed using [Bootstrap v5.2](https://getbootstrap.com/docs/5.2/getting-started/introduction/), its UI is simple and easy to use. You can also integrate it into your website or application. You just need to select certain metric values, based on the metric values you entered, the CVSS calculator applies the formula specified in the [CVSS version 3.1 standard](https://www.first.org/cvss/v3-1/cvss-v31-specification_r1.pdf) to generate the score.
 
 > Common Vulnerability Scoring System (CVSS) is a free and open standard. It is owned and managed by [FIRST.org](https://www.first.org/). 
 
