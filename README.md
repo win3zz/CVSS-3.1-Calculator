@@ -6,7 +6,7 @@ It is a free **Common Vulnerability Scoring System (CVSS) Version 3.1 Calculator
 
 ## Live Demo
 
-[cuberk.com/CVSS](https://cuberk.com/CVSS/)
+[https://cuberk.com/cvss/v3-1/](https://cuberk.com/cvss/v3-1/)
 
 ## Screenshot
 
